@@ -3,12 +3,12 @@ from setuptools import setup, find_packages
 setup(
 	name = 'helium',
 	# Also update docs/conf.py when you change this:
-	version = '',
-	author = 'Michael Herrmann',
-	author_email = 'michael+removethisifyouarehuman@herrmann.io',
-	description = 'Lighter browser automation based on Selenium.',
-	keywords = 'helium selenium browser automation',
-	url = 'https://github.com/mherrmann/selenium-python-helium',
+	version = '3.0.8',
+	author = 'FunSociety',
+	author_email = 'anon',
+	description = 'TEST Lighter browser automation based on Selenium.',
+	keywords = 'anon',
+	url = 'https://github.com/KenyOnFire/helium_MOD_TEST',
 	python_requires='>=3',
 	packages = find_packages(exclude=['tests', 'tests.*']),
 	install_requires = [
